@@ -8,3 +8,5 @@
 - **Pregunta 6**: background-color: antiquewhite;
 - **Pregunta 7**: background-color: aquamarine;
 - **Pregunta 8**: background-color: blueviolet;
+
+Sofia Segura
